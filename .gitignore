@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+.settings/
+Debug/
+Release/
+*.launch
+*.o
+*.elf
+*.bin
+.mxproject
