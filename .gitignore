@@ -31,11 +31,26 @@
 *.out
 *.app
 
+
+
+# IDE Project files
+.project
+.cproject
+.mxproject
 .settings/
+
+# Build Artifacts
 Debug/
 Release/
-*.launch
-*.o
+bin/
+obj/
 *.elf
 *.bin
-.mxproject
+*.map
+*.hex
+*.o
+*.d
+
+# Linker Scripts 
+*.ld
+*.launch
